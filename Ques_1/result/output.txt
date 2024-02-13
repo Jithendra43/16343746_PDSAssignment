@@ -1,0 +1,3 @@
+T-test outputs for comparing weight between frail and non-frail categories:
+T_statistic: 2.1964625958466355
+P_value: 0.07309706417382401
